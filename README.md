@@ -1,6 +1,10 @@
-# Comforting Corner
+## Comforting Corner
 
-This package exports the existing Comforting Corner interface into browser-loadable HTML, CSS and JavaScript files while keeping the original React component logic and page flows. The components were transpiled from TypeScript/TSX into JavaScript modules rather than being rewritten as a framework-free app; that is the most reliable way to preserve the existing design and interactions in this conversion.
+A calmer way to seek mental health support.
+
+Comforting Corner is a mental health support platform prototype designed to make emotional support feel more approachable, accessible, and less intimidating. It brings together peer-support Buddies and therapist profiles in one user-friendly interface, allowing users to explore support options and navigate a simulated session-booking experience.
+
+The goal is to make taking the first step toward emotional well-being feel simpler and more comfortable.
 
 ## Run it on Windows
 
