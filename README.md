@@ -1,13 +1,12 @@
-# Comforting Corner — HTML, CSS and JavaScript export
+# Comforting Corner
 
 This package exports the existing Comforting Corner interface into browser-loadable HTML, CSS and JavaScript files while keeping the original React component logic and page flows. The components were transpiled from TypeScript/TSX into JavaScript modules rather than being rewritten as a framework-free app; that is the most reliable way to preserve the existing design and interactions in this conversion.
 
 ## Run it on Windows
 
-1. Extract the ZIP.
-2. Make sure Node.js is installed.
-3. Double-click `start.bat`.
-4. Your browser should open `http://localhost:8000`.
+1. Make sure Node.js is installed.
+2. Double-click `start.bat`.
+3. Your browser should open `http://localhost:8000`.
 
 Or open a terminal in this folder and run:
 
