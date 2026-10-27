@@ -1,0 +1,32 @@
+[
+  {
+    "id": "t-demo-001",
+    "name": "Dr. Sample Therapist",
+    "title": "Demo Therapist Profile",
+    "avatar": null,
+    "credentials": "Synthetic placeholder — not a real qualification",
+    "licenseNumber": "DEMO-NOT-A-REAL-LICENSE",
+    "experienceYears": 0,
+    "specializations": ["Anxiety or persistent worry", "Academic stress and performance anxiety"],
+    "modalities": ["Example modality for display testing"],
+    "ageGroups": ["Adults"],
+    "languages": ["English", "Hindi"],
+    "sessionModes": ["Online Video (mockup only)"],
+    "sessionDuration": "50 minutes",
+    "price": 1500,
+    "ccPoints": 200,
+    "rating": 4.5,
+    "reviewCount": 1,
+    "isVerified": false,
+    "nextAvailableSlot": "Tomorrow · 10:00 AM IST",
+    "bio": "Synthetic test fixture only. Not a real therapist and not an offer of clinical care.",
+    "approachDescription": "Placeholder text used to check profile layout.",
+    "firstSessionExpectations": "Demo description only.",
+    "availableSlots": [
+      { "id": "slot-demo-001", "date": "Tomorrow", "time": "10:00 AM IST", "mode": "Online Video (mockup only)" }
+    ],
+    "reviews": [
+      { "author": "Sample Reviewer B", "text": "Synthetic review for testing only.", "date": "Sample date", "verifiedClient": false }
+    ]
+  }
+]

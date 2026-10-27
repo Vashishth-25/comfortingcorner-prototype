@@ -1,0 +1,33 @@
+[
+  {
+    "id": "b-demo-001",
+    "name": "Sample Peer Buddy",
+    "avatar": null,
+    "degree": "B.A. Psychology (sample)",
+    "year": "3rd Year",
+    "institution": "Demo University",
+    "isVerified": false,
+    "isTrained": false,
+    "topics": ["Academic or work pressure", "Stress or overthinking"],
+    "languages": ["English", "Hindi"],
+    "approach": "Calm, patient, non-judgmental listening",
+    "price": 250,
+    "tier": 3,
+    "ccPoints": 100,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "availability": "Sample availability",
+    "nextAvailableSlot": "Tomorrow · 10:00 AM IST",
+    "bio": "Synthetic demo profile for development and manual QA. This is not a real provider listing.",
+    "conversationStyle": "Reflective listening and supportive check-ins.",
+    "trainingDetails": "Demo-only placeholder; no training or credentials are being asserted.",
+    "reviews": [
+      {
+        "author": "Sample Reviewer A",
+        "text": "Synthetic review text for layout testing.",
+        "date": "Sample date",
+        "helpfulCount": 1
+      }
+    ]
+  }
+]

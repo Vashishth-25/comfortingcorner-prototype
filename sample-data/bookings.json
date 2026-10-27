@@ -1,0 +1,53 @@
+[
+  {
+    "id": "booking-demo-confirmed",
+    "providerId": "t-demo-001",
+    "providerName": "Dr. Sample Therapist",
+    "providerTitle": "Demo Therapist Profile",
+    "providerAvatar": null,
+    "serviceType": "therapist",
+    "date": "Tomorrow",
+    "time": "10:00 AM IST",
+    "timeZone": "IST (Asia/Kolkata)",
+    "mode": "Online Video (mockup only)",
+    "price": 1500,
+    "duration": "50 minutes",
+    "status": "confirmed",
+    "clientNotes": "Synthetic note for layout testing; no real health data.",
+    "createdAt": "2026-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "booking-demo-completed",
+    "providerId": "b-demo-001",
+    "providerName": "Sample Peer Buddy",
+    "providerTitle": "Peer Buddy (demo)",
+    "providerAvatar": null,
+    "serviceType": "buddy",
+    "date": "Yesterday",
+    "time": "4:00 PM IST",
+    "timeZone": "IST (Asia/Kolkata)",
+    "mode": "Chat (demo)",
+    "price": 250,
+    "duration": "30 minutes",
+    "status": "completed",
+    "clientNotes": "",
+    "createdAt": "2025-12-31T10:00:00.000Z"
+  },
+  {
+    "id": "booking-demo-cancelled",
+    "providerId": "t-demo-001",
+    "providerName": "Dr. Sample Therapist",
+    "providerTitle": "Demo Therapist Profile",
+    "providerAvatar": null,
+    "serviceType": "therapist",
+    "date": "Last week",
+    "time": "11:00 AM IST",
+    "timeZone": "IST (Asia/Kolkata)",
+    "mode": "Online Video (mockup only)",
+    "price": 1500,
+    "duration": "50 minutes",
+    "status": "cancelled",
+    "clientNotes": "",
+    "createdAt": "2025-12-24T10:00:00.000Z"
+  }
+]
