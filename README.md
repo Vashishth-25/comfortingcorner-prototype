@@ -1,4 +1,4 @@
-## Comforting Corner     ----     working link -  https://vashishth-25.github.io/comfortingcorner-prototype/
+## Comforting Corner     ----     https://vashishth-25.github.io/comfortingcorner-prototype/
 
 A calmer way to seek mental health support.
 
